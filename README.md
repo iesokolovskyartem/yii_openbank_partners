@@ -1,4 +1,4 @@
-# Пакет для интеграции с партнерским кабинетом банка Открытие с помощью API.
+# [Framework Yii2]: Пакет для интеграции с партнерским кабинетом банка Открытие с помощью API.
 
 [![Latest Stable Version](https://poser.pugx.org/iesokolovskyartem/yii_openbank_partners/v)](//packagist.org/packages/iesokolovskyartem/yii_openbank_partners)
 [![Latest Unstable Version](https://poser.pugx.org/iesokolovskyartem/yii_openbank_partners/v/unstable)](//packagist.org/packages/iesokolovskyartem/yii_openbank_partners)
