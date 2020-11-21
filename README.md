@@ -5,9 +5,13 @@
 [![Total Downloads](https://poser.pugx.org/iesokolovskyartem/yii_openbank_partners/downloads)](//packagist.org/packages/iesokolovskyartem/yii_openbank_partners)
 [![License](https://poser.pugx.org/iesokolovskyartem/yii_openbank_partners/license)](//packagist.org/packages/iesokolovskyartem/yii_openbank_partners)
 
+### Введение
+
 Этот пакет написан не разработчиком банка Открытия, разработан для [Framework yii2](https://www.yiiframework.com/).
 Документацию по пакету можно найти в [WiKi страницах](https://github.com/iesokolovskyartem/yii_openbank_partners/wiki), техническую поддержку можно получить написав 
 на почту [artem@sokolovsky.eu](mailto:artem@sokolovsky.eu) или в [Issues](https://github.com/iesokolovskyartem/yii_openbank_partners/issues/new).
+
+**Обратите внимание на второй пакет [iesokolovskyartem/openbank_partners](https://github.com/iesokolovskyartem/openbank_partners) у которого [yiisoft/yii2-httpclient](https://github.com/yiisoft/yii2-httpclient) заменён на [guzzle/guzzle](https://github.com/guzzle/guzzle). Данный пакет не будет обновляться после выхода версии 2.0.0. Рекомендуймый пакет для использования: [iesokolovskyartem/openbank_partners](https://github.com/iesokolovskyartem/openbank_partners).**
 
 ### Установка
 Установить можете с помощью composer
