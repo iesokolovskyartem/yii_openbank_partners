@@ -1,7 +1,7 @@
 <?php
 
 
-namespace yii\c7v\yii_openbank_partners\request;
+namespace yii\iesokolovskyartem\yii_openbank_partners\request;
 
 
 use http\Client\Request;

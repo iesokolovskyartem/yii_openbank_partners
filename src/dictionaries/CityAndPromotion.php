@@ -1,7 +1,7 @@
 <?php
 
 
-namespace yii\c7v\yii_openbank_partners\dictionaries;
+namespace yii\iesokolovskyartem\yii_openbank_partners\dictionaries;
 
 use http\Client\Request;
 use http\Client\Response;
